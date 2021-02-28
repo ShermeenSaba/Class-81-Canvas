@@ -1,0 +1,10 @@
+.body_background {
+    background-image: url('https://i.pinimg.com/originals/0a/b7/98/0ab7980f21d5270812a36acdd26110ec.jpg');
+  }
+  
+  #myCanvas {
+    background-color: pink;
+    border: 10px;
+    border-style: ridge;
+    border-color: gray;
+  }
